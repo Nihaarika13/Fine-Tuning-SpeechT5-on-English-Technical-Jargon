@@ -28,6 +28,7 @@ It’s recommended to use a virtual environment to isolate dependencies:
 
 bash
 Copy code
+
       python -m venv venv
       source venv/bin/activate  # On Linux/macOS
       
