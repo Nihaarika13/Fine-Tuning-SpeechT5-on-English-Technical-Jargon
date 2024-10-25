@@ -5,11 +5,11 @@ This project provides the setup and code to fine-tune the SpeechT5 model for acc
 Prerequisites
 Ensure you have the following installed on your system:
 
-Python 3.10+
+->Python 3.10+
 
-GPU (optional but recommended for faster training)
+->GPU (optional but recommended for faster training)
 
-Git
+->Git
 
 Installation
 Follow these steps to set up your environment and install dependencies.
