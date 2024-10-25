@@ -39,10 +39,12 @@ The required Python packages are listed in the requirements.txt file. Install th
 
 bash
 Copy code
-      pip install -r requirements.txt
+
+       pip install -r requirements.txt
       
 After installing the dependencies, verify with the following command:
 
 bash
 Copy code
-       python -c "import torch, librosa, pandas, transformers"
+
+        python -c "import torch, librosa, pandas, transformers"
