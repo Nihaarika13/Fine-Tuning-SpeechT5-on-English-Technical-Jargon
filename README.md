@@ -17,8 +17,7 @@ Follow these steps to set up your environment and install dependencies.
 Step 1: Clone the Repository
 First, clone this repository to your local machine:
 
-bash
-Copy code
+Code
 
       git clone https://github.com/your-repo/fine-tune-speechT5-technical-jargon.git
       cd fine-tune-speechT5-technical-jargon
@@ -26,8 +25,7 @@ Copy code
 Step 2: Set Up a Virtual Environment (Optional)
 It’s recommended to use a virtual environment to isolate dependencies:
 
-bash
-Copy code
+Code
 
       python -m venv venv
       source venv/bin/activate  # On Linux/macOS
@@ -38,14 +36,12 @@ Copy code
 Step 3: Install Requirements
 The required Python packages are listed in the requirements.txt file. Install them as follows:
 
-bash
-Copy code
+Code
 
        pip install -r requirements.txt
       
 After installing the dependencies, verify with the following command:
 
-bash
-Copy code
+Code
 
         python -c "import torch, librosa, pandas, transformers"
